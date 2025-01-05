@@ -1,0 +1,5 @@
+version: 1
+cron:
+  - name: "task1"
+    url: "/var/www/html/app/Console/Kernel.php"
+    schedule: "*/1 * * * *"

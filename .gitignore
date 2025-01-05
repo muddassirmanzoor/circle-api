@@ -1,0 +1,8 @@
+/nbproject/private/
+storage
+public
+docker-compose
+envs
+vendor
+.env
+
